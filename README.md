@@ -6,16 +6,16 @@
 
 **Hi! my name is Jongchan Park😄**   
    
-### 📚 Research: 📸 Computer vision based Multi-task Learning, 🚗 Active SLAM    
+### 📚Research: 📸Computer vision based Multi-task Learning and 🚗Active SLAM    
    
-### 🛠️ Stack
+### 🛠️Stack
 ![ROS1 Badge](https://img.shields.io/badge/ROS1-000000?style=flat-square&logo=ROS&logoColor=white)
 ![ROS2 Badge](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 ![Pytorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
    
-### 🤵 About me
+### 🤵About me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/Jongchan-s-Portfolio-4d134bf02b104c84a85f128a1f864d04)](https://www.notion.so/Jongchan-s-Portfolio-4d134bf02b104c84a85f128a1f864d04)
 <!--
