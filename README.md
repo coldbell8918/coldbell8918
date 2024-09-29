@@ -6,8 +6,7 @@
 
 **Hi! my name is Jongchan Park😄**   
    
-## 📚 Research
-**📸 Computer vision based Multi-task Learning, 🚗 Active SLAM**    
+### 📚 Research: 📸 Computer vision based Multi-task Learning, 🚗 Active SLAM    
    
 ### 🛠️ Stack
 ![ROS1 Badge](https://img.shields.io/badge/ROS1-000000?style=flat-square&logo=ROS&logoColor=white)
