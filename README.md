@@ -4,8 +4,7 @@
 
 </div>
 
-## Hi! my name is Jongchan Park😄  
-
+## Hi! my name is Jongchan Park😄
 
 <!--
 **coldbell8918/coldbell8918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
