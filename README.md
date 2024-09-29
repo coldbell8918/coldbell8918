@@ -4,7 +4,7 @@
 
 </div>
 
-**Hi! my name is Jongchan Park😄. I am studying for a master's degree in Electrical and Electronics Engineering at Korea University. **   
+**Hi! my name is Jongchan Park😄. I am studying for a master's degree in Electrical and Electronics Engineering at Korea University.**   
    
 ### 📚Research
 **📸Computer vision based Multi-task Learning and 🚗Active SLAM**       
