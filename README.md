@@ -9,7 +9,7 @@
 **📸 Computer vision based Multi-task Learning, 🚗 Active SLAM**    
 
 ## 🛠️ Stack
-![ROS Badge](https://img.shields.io/badge/ROS-d14836?style=flat-square&logo=Gmail&logoColor=white)
+![ROS Badge](https://img.shields.io/badge/ROS-000000?style=flat-square&logo=ROS&logoColor=white)
 ## 🤵 About me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/Jongchan-s-Portfolio-4d134bf02b104c84a85f128a1f864d04)](https://www.notion.so/Jongchan-s-Portfolio-4d134bf02b104c84a85f128a1f864d04)
