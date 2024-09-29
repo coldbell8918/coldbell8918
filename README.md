@@ -6,7 +6,9 @@
 
 ### Hi! my name is Jongchan Park😄
 ## 👨🏻‍💻 Research
-**Computer vision based Multi-task Learning, Active SLAM**
+**📸Computer vision based Multi-task Learning, 🏎️Active SLAM**  
+## About me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjc0525@hanyang.ac.kr)](pjc0525@hanyang.ac.kr)
 <!--
 **coldbell8918/coldbell8918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
