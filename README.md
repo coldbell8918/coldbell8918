@@ -5,7 +5,7 @@
 </div>
 
 ## Hi! my name is Jongchan Park😄
-
+### Research: Computer vision based Multi-task Learning, Active SLAM
 <!--
 **coldbell8918/coldbell8918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
