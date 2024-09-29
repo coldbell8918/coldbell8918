@@ -4,8 +4,9 @@
 
 </div>
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldbell8918&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+## Hi! my name is Jongchan Park😄  
+
+
 <!--
 **coldbell8918/coldbell8918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
