@@ -15,10 +15,10 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 ![Pytorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=PyTorch&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=PyTorch&logoColor=white)
-![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=PyTorch&logoColor=white)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=PyTorch&logoColor=white)
+![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
    
 ### 🤵About me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
