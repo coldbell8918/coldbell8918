@@ -23,7 +23,7 @@
    
 ### 🤵 About me
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/Jongchan-s-Notion-4d134bf02b104c84a85f128a1f864d04)](https://www.notion.so/Jongchan-s-Portfolio-4d134bf02b104c84a85f128a1f864d04)
-[![PDF Badge](https://img.shields.io/badge/Portfolio-00599C?style=flat-square&logo=ONLYOFFICE&logoColor=white&link=mailto:https://drive.google.com/file/d/14robXSKslettwKooQGafLMrLRQ7KETbc/view?usp=drive_link)](https://drive.google.com/file/d/14robXSKslettwKooQGafLMrLRQ7KETbc/view?usp=drive_link)
+[![PDF Badge](https://img.shields.io/badge/Portfolio-00599C?style=flat-square&logo=ONLYOFFICE&logoColor=white&link=mailto:https://drive.google.com/file/d/11jwr3_6CG4n2bsm171BMD6cfZdMfhqrv/view?usp=sharing)](https://drive.google.com/file/d/11jwr3_6CG4n2bsm171BMD6cfZdMfhqrv/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 <!--
 **coldbell8918/coldbell8918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
